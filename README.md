@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository preserves three public PIDBot demonstration visuals for legal-workflow review: an annotated vintage industrial motor-control center, an exposure heat map, and a trigger-chain diagram. Together they show a proposed path from depositions and product or incident data to exposure scoring, role classification, bankruptcy filtering, liability allocation, hazard detection, and escalation controls.
-
-The repository contains visual demonstration material only. It does not establish identification of a real product, site, manufacturer, exposure, or legal outcome.
+Three PIDBot visuals show how product identification and exposure analysis can be structured for legal review. An annotated vintage motor-control center, example exposure heat map, and trigger-chain diagram distinguish possible components, evidence inputs, scoring, party roles, and escalation points. The visuals use illustrative inputs and percentages.
 
 ## Key record
 
@@ -18,11 +16,11 @@ The repository contains visual demonstration material only. It does not establis
 
 ### Product and incident review
 
-The annotated motor-control-center image uses cautious labels such as “possible” and “may contain.” It is an illustrative component-review surface, not a laboratory finding or product-authentication record.
+The annotated motor-control-center image marks components for investigation using “possible” and “may contain.” Confirming their composition or manufacturer would require product records or testing.
 
 ### Exposure and role structure
 
-The heat map displays example percentages for three defendants and three product categories. The values are presentation examples; the image does not supply the evidentiary record, allocation method, or legal basis needed to treat them as a real exposure or fault determination.
+The heat map displays illustrative percentages for three defendants and three product categories. A real allocation would require the underlying exposure record, a stated method, and attorney review.
 
 ### Controlled trigger path
 
@@ -34,11 +32,7 @@ The figure also displays the labels `Deterministic Entropy Governance | ΔH = 0.
 
 ## Recorded checks
 
-No executable verifier, replay certificate, benchmark ledger, source register, or independent review is included. The appropriate status is:
-
-- **DEMONSTRATION**;
-- **UNBENCHMARKED** for broader product-identification performance; and
-- **External validation: UNVERIFIED**.
+The public release contains the three visuals. It provides no executable verifier or benchmark ledger. Broader product-identification performance remains unmeasured in this repository.
 
 ## Technical significance
 
@@ -75,6 +69,6 @@ These are repository object identifiers for the published files. They establish 
 
 ## Public status
 
-**DEMONSTRATION · CONCEPTUAL VISUALS · EXTERNAL VALIDATION UNVERIFIED**
+**PUBLIC VISUAL DEMONSTRATION · PRODUCT IDENTIFICATION AND EXPOSURE WORKFLOW**
 
 © 2026 Grounded DI LLC.
